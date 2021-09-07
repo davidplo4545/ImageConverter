@@ -5,6 +5,8 @@ to a grayscaled image.
 This is my initial introduction to processing images with python so I figured
 hooking this up as an api endpoint and building a simple web interface for it.
 
+![converting](converting.gif)
+
 ## Built With:
 
 - [Flask](https://flask.palletsprojects.com/en/2.0.x/) A python web-framework
